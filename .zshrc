@@ -73,6 +73,10 @@ ZSH_THEME="random"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(git node npm nvm cp you-should-use zsh-syntax-highlighting zsh-autosuggestions)
 
+# you-should-use : https://github.com/MichaelAquilina/zsh-you-should-use
+# zsh-syntax-highlighting : https://github.com/zsh-users/zsh-syntax-highlighting
+# zsh-autosuggestions : https://github.com/zsh-users/zsh-autosuggestions
+
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
